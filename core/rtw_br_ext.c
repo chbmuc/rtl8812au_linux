@@ -23,6 +23,7 @@
 #include <linux/if_arp.h>
 #include <net/ip.h>
 #include <net/ipx.h>
+#include <net/ip6_checksum.h>
 #include <linux/atalk.h>
 #include <linux/udp.h>
 #include <linux/if_pppox.h>
